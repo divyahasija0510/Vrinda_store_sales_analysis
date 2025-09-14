@@ -5,8 +5,8 @@ This project is a comprehensive MS Excel dashboard designed to visualize and ana
 
 ## 📌 Table of Contents
 - <a href="#Detailed-Visuals-Insights">Detailed Visuals & Insights</a>
-<a href="#Final-conclusions">Final Conclusion to improve Vrinda store sales:</a>
-- <a href="#Tools-Technologies">🛠️ Tools & Technologies</a>
+- <a href="#Final-conclusions">Final Conclusion to improve Vrinda store sales:</a>
+- <a href="#Tools--Technologies ">🛠️ Tools & Technologies</a>
 - <a href="#author--contact">📞Author & Contact</a>
 ----
 
@@ -25,7 +25,7 @@ ads/offers/coupons available on Amazon, Flipkart and Myntra.
 
 ---
 
-<h2><a class="anchor" id="Tools-Technologies"></a>🛠️ Tools & Technologies</h2>
+<h2><a class="anchor" id="Tools--Technologies "></a>🛠️ Tools & Technologies</h2>
 - MS Excel<r><br>
 - Data Cleaning & Transformation<br>
 - Data Processing<br>
